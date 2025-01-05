@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "Statistic program",
+        "Mortgage Calculator",
+        "Geometry - Points, Circle, Triangle, area and perimenter",
+        "Deck of Cards",
+        "Bonus",
+        "BankingApplication",
+        "Websocket_demo/websocket_demo/src/main/java/com/example/websocket_demo"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.debug.settings.forceBuildBeforeLaunch": false
+}
